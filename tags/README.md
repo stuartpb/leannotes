@@ -10,6 +10,10 @@ This tag image incorporates [this](https://openclipart.org/detail/262254/grappli
 
 ## ![Good Read](good-read.svg)
 
+This tag image uses [this](https://openclipart.org/detail/4155/glasses) Glasses illustration by "genu" on OpenClipArt.
+
+## ![Spotlight](spotlight.svg)
+
 This tag image incorporates [the Flashlight emoji from EmojiOne 2.2.7](https://commons.wikimedia.org/wiki/File:Emojione_1F526.svg), licensed under the Creative Commons Attribution 4.0 International license. (Wikimedia Commons lists it as CC-BY-SA instead of CC-BY: this is [in error](https://github.com/emojione/emojione/blob/2.2.7/LICENSE.md).)
 
 ## ![Chapter Link](chapter-link.svg)
