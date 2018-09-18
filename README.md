@@ -6,7 +6,7 @@ This is a working draft. I'm filling it in and adding on as I have the time, goi
 
 Some chapters will have little to no content beyond a title and a summary. Some Previous / Read On lists will lead off in directions that don't make any sense. Some sections may just link off to a GitHub Issue for details instead of having something written in the text itself (and *that* issue may have nothing in it).
 
-See [issue #1](https://github.com/leannotes/leannotes/issues/1) for more information on the process of migrating these to GitHub; file a new issue if there's something specific missing that you'd want to know, and I'll answer if I can.
+See [issue #1](https://github.com/stuartpb/leannotes/issues/1) for more information on the process of migrating these to GitHub; file a new issue if there's something specific missing that you'd want to know, and I'll answer if I can.
 
 # ![Tag: Chapter Link][] Table of Contents
 
@@ -129,36 +129,42 @@ Sorted by most of the section's content. Since Lean Notes is written with a flow
 
 - [Observation and Measurement][]
 
-[Introduction]: chapters/introduction.md
-[Getting Something Started]: chapters/getting-something-started.md
-[Acquiring Hardware]: chapters/acquiring-hardware.md
-[Planning and Collaborating]: chapters/planning-and-collaborating.md
-[Naming and Domains]: chapters/naming-and-domains.md
-[Branding and Design]: chapters/branding-and-design.md
-[Acting in the Ecosystem]: chapters/acting-in-the-ecosystem.md
-[Codeless Solutions]: chapters/codeless-solutions.md
-[Development Workspace]: chapters/development-workspace.md
-[Computers and Phones]: chapters/computers-and-phones.md
-[Enter the Web]: chapters/enter-the-web.md
-[Writing for Browsers]: chapters/writing-for-browsers.md
-[Building App Servers]: chapters/building-app-servers.md
-[Implementing User Accounts]: chapters/implementing-user-accounts.md
-[Utilizing Databases]: chapters/utilizing-databases.md
-[Testing and Automation]: chapters/testing-and-automation.md
-[Hosting and Infrastructure]: chapters/hosting-and-infrastructure.md
-[Security and Preparedness]: chapters/security-and-preparedness.md
-[Email and Phone Numbers]: chapters/email-and-phone-numbers.md
-[Usability and Accessibility]: chapters/usability-and-accessibility.md
-[Being Searchable]: chapters/being-searchable.md
-[Observation and Measurement]: chapters/observation-and-measurement.md
-[Signal Processing and Reading]: chapters/signal-processing-and-reading.md
-[Monetizing and Accounting]: chapters/monetizing-and-accounting.md
-[Manual Components]: chapters/manual-components.md
-[Community Cultivation]: chapters/community-cultivation.md
-[Spread Strategy]: chapters/spread-strategy.md
-[Launching and Releasing]: chapters/launching-and-releasing.md
-[Going International]: chapters/going-international.md
-[Making the Rules]: chapters/making-the-rules.md
-[Beyond These Notes]: chapters/beyond-these-notes.md
+# About Tags
 
-[Tag: Chapter Link]: tags/chapter-link.svg
+There's a document giving attribution (but not explanation yet) for the designs that will be used going forward [here][Tag readme].
+
+[Introduction]: content/897e178c-a82e-4006-a6ae-fae31a2a8eac.md
+[Getting Something Started]: content/21d2ac62-4802-478b-b91c-1662495dc65b.md
+[Acquiring Hardware]: content/532b2c28-d212-4a70-a953-739894acdee5.md
+[Planning and Collaborating]: content/5f81053e-eeb1-4df4-8d05-5543782bd0d9.md
+[Naming and Domains]: content/c921aaa9-205f-4f2a-accd-116d5537e17b.md
+[Branding and Design]: content/28eefb9f-cdfb-49e9-a6a2-7993adbe80fb.md
+[Acting in the Ecosystem]: content/291a3608-b5f1-4a27-8161-7a20751c9ef3.md
+[Codeless Solutions]: content/a9037000-1dcc-430a-a73b-2b526894ec73.md
+[Development Workspace]: content/2cfd29c6-8dab-4840-bd2c-55ab1284db28.md
+[Computers and Phones]: content/4f4e8cd8-f357-4870-b820-6586d5f276dd.md
+[Enter the Web]: content/332cff27-1704-46ad-a768-22c647b123b4.md
+[Writing for Browsers]: content/1aadb557-3d09-499b-8c44-f406a3e5cfd8.md
+[Building App Servers]: content/b9922a97-11e5-4243-972d-4f949f699bd5.md
+[Implementing User Accounts]: content/c6891500-92fd-4774-9a14-d734d99bbdb4.md
+[Utilizing Databases]: content/2c3e13ff-0d72-47cc-9656-28c3e407ac60.md
+[Testing and Automation]: content/a27bdf95-af28-4934-b95b-5135bf9e1e65.md
+[Hosting and Infrastructure]: content/8c7d6fd3-5be6-4a00-bb9a-a8dd150ff7fe.md
+[Security and Preparedness]: content/8f0dbfcd-db75-4323-b8cc-3d8d1c8fef61.md
+[Email and Phone Numbers]: content/2ced18b2-8863-4831-84d6-ee5c428f49e7.md
+[Usability and Accessibility]: content/3c530c06-4848-4697-a3b8-71a23fbc3d6b.md
+[Being Searchable]: content/d0bc3cab-64f5-4d8a-bb67-107324793e2e.md
+[Observation and Measurement]: content/46a6ca68-e588-4a2f-a13a-1e4490b12c7f.md
+[Signal Processing and Reading]: content/9c40a436-e443-4441-98e4-c72a735d46c9.md
+[Monetizing and Accounting]: content/65aeb9ab-6e50-494b-87c2-82a1d6c122b2.md
+[Manual Components]: content/9c8f034f-bc4a-46d9-9d32-6fecfc962e2a.md
+[Community Cultivation]: content/5ff993d7-333f-4a27-a46b-85a7878fb094.md
+[Spread Strategy]: content/8e12814c-43bf-4485-bee4-81b2c0071da0.md
+[Launching and Releasing]: content/ec482df6-cfdd-4a9c-ba51-35607aff7a5c.md
+[Going International]: content/0e96afd2-54f3-4427-9b61-0d160d9beb26.md
+[Making the Rules]: content/40d26a5d-1e9e-4d6f-b552-c84272f55b59.md
+[Beyond These Notes]: content/09bc7885-639d-4cd7-823f-03ec4b41d913.md
+
+[Tag readme]: content/ced13582-8e1a-4b38-9469-896206590dfb.md
+
+[Tag: Chapter Link]: assets/tags/fbefcb97-739a-4426-ad7d-bca872e3e2ed.svg
