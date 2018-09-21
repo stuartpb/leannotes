@@ -41,20 +41,29 @@ Even when it was on Trello, I was experimenting with *multiple* Tables of Conten
 
 In the merged version of this repository, these Tables have been kept, and may be developed out to incorporate content from some of these other projects, or integrated into some larger "index documents " that may link to them as part of a larger-scope guide.
 
+### Meditations
+
+This was a loose repository, meant to collect various small, quotable observations I'd had, similar to some of the cards on the Lean Notes boards. The thoughts here were meant to be short but deep and often koan-like - at one point, the repository was going to have the tagline "Understanding Stuart P. Bentley" - but it quickly sprawled into a situation where I'd start writing long, meandering diatribes that were far outside the already-pretty-liberal scope of content I was looking to collect in that repository.
+
+To resolve the problem of overly-broad files that I kind of wanted to write or publish, I created [barfspace][], and moved some of the files I'd written for the meditations repository to there: however, for most of the files, I didn't feel right mixing them in with the formless, aimless morass of documents on barfspace, so I just kept that repository around until this repository's scope expanded enough to fit Meditations.
+
+Here's [the index page for meditations][meditations] - the rest of the files therein will hopefully be better integrated with the rest of the notes going forward.
+
 ### The how-i-roll repository
 
 This was another, similar project to Lean Notes, but with more of an eye toward describing my own *specific* procedures I follow when setting out to do things. It contained three significant files that have been merged in here:
 
 - A file on using [GitHub Issues as Notes][]
-- A file on [How Stuart P. Bentley Starts Projects][]
+- A file on [How Stuart P. Bentley Starts Projects][], a specific procedure for the very first steps I take on most projects I start
 - A file on [how I write on GitHub][how-i-roll writing], which this merge has made significantly less relevant (this file should be revised soon).
 
-### A bunch of other half-baked concepts I'd made repos for
+### A bunch of other loose concepts I'd made repos for
 
-Here are some loose pages I'd originally planned to write entire books (or at least booklets) for, most of which had been linked in my list of [Collected Writings][], often with more text being dedicated to describing *what the planned repository was intended to collect* than *actual text within the repository* (for many of these, those descriptions form the bulk of their content here):
+Here are some rough pages I'd originally planned to write entire books (or at least booklets) for, most of which had been linked in my list of [Collected Writings][], often with more text being dedicated to describing *what the planned repository was intended to collect* than *actual text within the repository* (for many of these, those descriptions form the bulk of their content here):
 
 - [stuartpb On Security][]
 - [Nerd First][]
+- [Selling to Help][]
 - [Undesign][]
 - [Primer Prime][]
 - [Everybody Gets a Factory][]
@@ -64,18 +73,20 @@ Here are some loose pages I'd originally planned to write entire books (or at le
 
 Going forward, I'm looking to go through this repository and start cross-referencing these sorts of sub-projects, breaking them out into separate documents in some places, and merging them together in others, until it's all a big ball of hair, with a few good points of entry that can help you see everything that can help you, in an order that makes sense.
 
+[barfspace]: https://github.com/stuartpb/barfspace
 [Collected Writings]: https://github.com/stuartpb/collected-writings
 
+[Tag readme]: content/ced13582-8e1a-4b38-9469-896206590dfb.md
 [Table A]: content/c8c4173e-e0ca-4218-a33a-e5b0ae48e9ef.md
 [Table B]: content/ac01173b-4650-4609-aa84-0ded42714396.md
+[meditations]: content/8f2359ae-186f-4878-b5e5-33f3c177e6fc.md
 [GitHub Issues as Notes]: content/8c7b7b53-cbd4-487b-a8e7-e72d7e527982.md
 [How Stuart P. Bentley Starts Projects]: content/e7d1004b-5a6f-44c4-a0ea-ab7815460638.md
 [how-i-roll writing]: content/8801d68b-a815-4c92-b9af-503aa47b1848.md
 [stuartpb On Security]: content/4dd64124-8e20-4901-aae4-5876361adc85.md
 [Nerd First]: content/f63f28c0-aa23-44c0-b7b3-9b043489d132.md
+[Selling to Help]: content/aed6ef5f-8318-472d-9c43-d86a5c26cb8b.md
 [Undesign]: content/ff2268ae-d330-4eb4-847e-540718a0ceb6.md
 [Primer Prime]: content/b4195691-701c-48c6-a3d7-e4fe9123728e.md
 [Everybody Gets a Factory]: content/8cbd867d-1a63-4d1f-9c83-cab019fe87bd.md
 [Namespace Taboos]: content/ec13f80e-f367-4dd9-b4c3-c9b27c136167.md
-
-[Tag readme]: content/ced13582-8e1a-4b38-9469-896206590dfb.md
