@@ -51,11 +51,7 @@ Here's [the index page for meditations][meditations] - the rest of the files the
 
 ### The how-i-roll repository
 
-This was another, similar project to Lean Notes, but with more of an eye toward describing my own *specific* procedures I follow when setting out to do things. It contained three significant files that have been merged in here:
-
-- A file on using [GitHub Issues as Notes][]
-- A file on [How Stuart P. Bentley Starts Projects][], a specific procedure for the very first steps I take on most projects I start
-- A file on [how I write on GitHub][how-i-roll writing], which this merge has made significantly less relevant (this file should be revised soon).
+This was another, similar project to Lean Notes, but with more of an eye toward describing my own *specific* procedures I follow when setting out to do things. It contained three significant files, all of which fall under the category of "[Stuff I Do in my Projects on GitHub][]".
 
 ### A bunch of other loose concepts I'd made repos for
 
@@ -80,9 +76,7 @@ Going forward, I'm looking to go through this repository and start cross-referen
 [Table A]: content/c8c4173e-e0ca-4218-a33a-e5b0ae48e9ef.md
 [Table B]: content/ac01173b-4650-4609-aa84-0ded42714396.md
 [meditations]: content/8f2359ae-186f-4878-b5e5-33f3c177e6fc.md
-[GitHub Issues as Notes]: content/8c7b7b53-cbd4-487b-a8e7-e72d7e527982.md
-[How Stuart P. Bentley Starts Projects]: content/e7d1004b-5a6f-44c4-a0ea-ab7815460638.md
-[how-i-roll writing]: content/8801d68b-a815-4c92-b9af-503aa47b1848.md
+[Stuff I Do in my Projects on GitHub]: content/9e243c1d-4c37-4b69-9da5-e6e949f962fd.md
 [stuartpb On Security]: content/4dd64124-8e20-4901-aae4-5876361adc85.md
 [Nerd First]: content/f63f28c0-aa23-44c0-b7b3-9b043489d132.md
 [Selling to Help]: content/aed6ef5f-8318-472d-9c43-d86a5c26cb8b.md
